@@ -1,9 +1,10 @@
 ## Olá, Eu sou Victor! 
 
 
-- 🔭 Estudante de Ciencia da computação 
-- 🌱 gosto de SQL, Python e Power BI
-- 🤔 Bora codar!
+🔭 Computer Science student
+🌱 I enjoy working with SQL, Python, and Power BI
+🤔 Curious about cybersecurity
+🎯 I’m focused on growing in the tech field, with a special interest in data and web development.
 
  <div>
   <a href="https://github.com/HubBazarim">
