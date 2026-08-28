@@ -1,11 +1,12 @@
-## Olá, Eu sou Victor! 
+Hi, I’m Victor!
 
+I’m a Computer Science student with a background in administrative processes and professional experience in data analysis, business intelligence, and process improvement.
 
--🔭 Computer Science student
--🌱 I enjoy working with SQL, Python, and Power BI
--🤔 Curious about cybersecurity
--🎯 I’m focused on growing in the tech field, with a special interest in data and web development.
+I enjoy transforming data into useful insights and developing solutions that make processes more efficient. I work mainly with SQL, Python, Excel, and Power BI, creating dashboards, automations, reports, and data-driven analyses to support decision-making.
 
+I’m also interested in web development and cybersecurity, and I’m always looking for new opportunities to expand my technical knowledge and build practical projects.
+
+Currently, my goal is to grow in the technology field, especially in Data Analytics and Business Intelligence.
  <div>
   <a href="https://github.com/HubBazarim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HubBazarim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
